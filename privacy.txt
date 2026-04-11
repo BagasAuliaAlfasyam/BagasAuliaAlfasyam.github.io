@@ -1,0 +1,21 @@
+Privacy Policy
+
+Effective Date: April 12, 2026
+
+1. Introduction
+This Privacy Policy outlines how your data is handled when using this personal, local Command Line Interface (CLI) application ("the Tool"). Because this Tool is for private use only, our data practices are extremely minimal.
+
+2. Data Collection and Usage
+The Tool operates entirely locally on your machine. It does not collect, store, or transmit any personal data, analytics, or usage statistics to any third-party servers or developers. 
+
+3. TikTok API Data
+The Tool requires a TikTok access token to function (to upload videos and view your own content). This token, along with any fetched data (such as your video list or profile info), is stored exclusively on your local computer's file system (e.g., ~/.config/). We do not have access to this data.
+
+4. Data Sharing
+Since the Tool does not collect any data on external servers, we do not share, sell, or rent any of your information to third parties. All interactions occur directly between your local machine and the TikTok API.
+
+5. Data Security
+You are responsible for the security of your local machine and the credentials file used by the Tool. Do not share your configuration files or access tokens with anyone.
+
+6. Changes to this Policy
+This policy may be updated occasionally to reflect changes in local usage. Since this is a private tool, no formal notification will be sent.
