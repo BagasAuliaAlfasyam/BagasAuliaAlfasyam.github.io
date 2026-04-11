@@ -1,0 +1,18 @@
+Terms of Service
+
+Effective Date: April 12, 2026
+
+1. Acceptance of Terms
+By using this personal Command Line Interface (CLI) tool ("the Tool"), you agree to abide by these Terms of Service. This Tool is built strictly for private, non-commercial use to interact with the TikTok API.
+
+2. Purpose and Usage
+The Tool is designed to manage and upload personal content to the user's own TikTok account via terminal. It is not intended for public distribution, enterprise use, or any form of monetization.
+
+3. User Responsibilities
+As the sole user of this Tool, you are responsible for keeping your API credentials and access tokens secure. You agree not to use the Tool for spamming, scraping, or violating TikTok's official Terms of Service or Community Guidelines.
+
+4. Disclaimer of Liability
+This Tool is provided "as is" without warranty of any kind. The developer (you) assumes all risks associated with using this personal application.
+
+5. Termination
+Access to this Tool and its API integration may be terminated by the developer or revoked by TikTok at any time without notice.
